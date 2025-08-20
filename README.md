@@ -1,2 +1,2 @@
 # TryHackMe-writeups
-A collection of my personal writeups and solutions for various Try Hack Me challenges. This repository includes detailed explanations, code snippets, and techniques used to solve challenges across different categories like Web Exploitation, Cryptography, Reverse Engineering, Binary Exploitation, and Forensics.
+This repository contains my personal write-ups and solutions for a variety of TryHackMe challenges. It features in-depth explanations, relevant code snippets, and the methodologies I used to tackle tasks across multiple categories, including Web Exploitation, Cryptography, Reverse Engineering, Binary Exploitation, and Forensics.
